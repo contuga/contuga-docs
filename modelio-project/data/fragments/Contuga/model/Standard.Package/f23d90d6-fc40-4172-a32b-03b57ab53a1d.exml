@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="contuga" version="4">
+  <OBJECT>
+    <ID name="contuga" mc="Standard.Package" uid="f23d90d6-fc40-4172-a32b-03b57ab53a1d"/>
+    <PID name="Contuga" mc="Standard.Project" uid="f77068dc-f1b2-4269-9361-d238bdcb32e8"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[contuga]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="transactions" mc="Standard.Package" uid="131819cc-fd09-4029-92a9-7b81ee2a110f"/>
+        <COMPID name="categories" mc="Standard.Package" uid="fcddb1f1-8316-45ee-9b96-2b0c441d0d9f"/>
+        <COMPID name="accounts" mc="Standard.Package" uid="089ddbdd-1049-4afc-b04a-ddd51a0f3cd4"/>
+        <COMPID name="users" mc="Standard.Package" uid="5cd90e84-ab01-4782-b8ee-5242f557a571"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="General structure" mc="Standard.ClassDiagram" uid="4644b36b-3c60-452b-93ae-38b65657a5e4"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

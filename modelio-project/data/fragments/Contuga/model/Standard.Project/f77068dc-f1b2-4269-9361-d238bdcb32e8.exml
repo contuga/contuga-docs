@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Contuga" version="4">
+  <OBJECT>
+    <ID name="Contuga" mc="Standard.Project" uid="f77068dc-f1b2-4269-9361-d238bdcb32e8"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Contuga]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="contuga" mc="Standard.Package" uid="f23d90d6-fc40-4172-a32b-03b57ab53a1d"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Contuga" mc="Infrastructure.DiagramSet" uid="ba60b0eb-bba1-4a22-b8a5-20a9d56581ac"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

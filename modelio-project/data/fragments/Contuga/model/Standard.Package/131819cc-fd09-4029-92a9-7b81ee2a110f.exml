@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="transactions" version="4">
+  <OBJECT>
+    <ID name="transactions" mc="Standard.Package" uid="131819cc-fd09-4029-92a9-7b81ee2a110f"/>
+    <PID name="contuga" mc="Standard.Package" uid="f23d90d6-fc40-4172-a32b-03b57ab53a1d"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[transactions]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Transaction" mc="Standard.Class" uid="42e71b6f-85fb-4ca0-bba2-33b782017bd4"/>
+        <OBJECT>
+          <ID name="TransactionType" mc="Standard.Enumeration" uid="31b52e71-cd61-49c9-ab3d-a48166763a6f"/>
+          <ATTRIBUTES>
+            <ATT name="IsElementary">true</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[TransactionType]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="Value">
+              <OBJECT>
+                <ID name="Income" mc="Standard.EnumerationLiteral" uid="8b8176c0-501e-475c-a339-0acb5eb44add"/>
+                <ATTRIBUTES>
+                  <ATT name="Name"><![CDATA[Income]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+              <OBJECT>
+                <ID name="Expenditure" mc="Standard.EnumerationLiteral" uid="ba3001e8-6d6b-4881-90ec-7895a0f663a5"/>
+                <ATTRIBUTES>
+                  <ATT name="Name"><![CDATA[Expenditure]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

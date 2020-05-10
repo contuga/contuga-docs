@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="accounts" version="4">
+  <OBJECT>
+    <ID name="accounts" mc="Standard.Package" uid="089ddbdd-1049-4afc-b04a-ddd51a0f3cd4"/>
+    <PID name="contuga" mc="Standard.Package" uid="f23d90d6-fc40-4172-a32b-03b57ab53a1d"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[accounts]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Account" mc="Standard.Class" uid="8d90c8d7-aff3-4083-8a17-a80b996f09f7"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

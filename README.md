@@ -7,6 +7,7 @@ The setup instructions are available in the main GitHub repository - [github.com
 ## UML
 
 The UML documentation is publicly available on [contuga.eu/docs/](https://www.contuga.eu/docs/).
+If you prefer a deeper dive into the UML docs, load the [modelio project](modelio-project) locally.
 
 ## API
 
