@@ -11,4 +11,4 @@ If you prefer a deeper dive into the UML docs, load the [modelio project](modeli
 
 ## API
 
-The API documentation is publicly available on [contuga.eu/api/docs/](https://www.contuga.eu/api/docs/).
+The API documentation is publicly available on [contuga.eu/api/docs/](https://www.contuga.eu/api/docs/). The browsable version of the API can be found on [contuga.eu/en/api/](https://www.contuga.eu/en/api/).
