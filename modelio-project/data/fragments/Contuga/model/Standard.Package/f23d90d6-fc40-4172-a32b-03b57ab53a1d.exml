@@ -18,6 +18,7 @@
         <COMPID name="categories" mc="Standard.Package" uid="fcddb1f1-8316-45ee-9b96-2b0c441d0d9f"/>
         <COMPID name="accounts" mc="Standard.Package" uid="089ddbdd-1049-4afc-b04a-ddd51a0f3cd4"/>
         <COMPID name="users" mc="Standard.Package" uid="5cd90e84-ab01-4782-b8ee-5242f557a571"/>
+        <COMPID name="Currency" mc="Standard.Class" uid="35209690-4d1a-4133-a0d0-eaa4c16d031c"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="General structure" mc="Standard.ClassDiagram" uid="4644b36b-3c60-452b-93ae-38b65657a5e4"/>
