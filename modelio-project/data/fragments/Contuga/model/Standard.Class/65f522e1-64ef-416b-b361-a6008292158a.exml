@@ -346,7 +346,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="currency" mc="Standard.AssociationEnd" uid="2ba5d383-774c-410b-9123-e4eb3f94e5ed"/>
+          <ID name="currencies" mc="Standard.AssociationEnd" uid="2ba5d383-774c-410b-9123-e4eb3f94e5ed"/>
           <ATTRIBUTES>
             <ATT name="Aggregation">KindIsComposition</ATT>
             <ATT name="IsChangeable">true</ATT>
@@ -359,7 +359,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[currency]]></ATT>
+            <ATT name="Name"><![CDATA[currencies]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -386,7 +386,7 @@
                 </ATTRIBUTES>
                 <DEPENDENCIES>
                   <COMP relation="Opposite">
-                    <COMPID name="currency" mc="Standard.AssociationEnd" uid="2ba5d383-774c-410b-9123-e4eb3f94e5ed"/>
+                    <COMPID name="currencies" mc="Standard.AssociationEnd" uid="2ba5d383-774c-410b-9123-e4eb3f94e5ed"/>
                   </COMP>
                   <COMP relation="Association">
                     <OBJECT>
