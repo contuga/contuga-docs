@@ -19,6 +19,7 @@
         <COMPID name="accounts" mc="Standard.Package" uid="089ddbdd-1049-4afc-b04a-ddd51a0f3cd4"/>
         <COMPID name="users" mc="Standard.Package" uid="5cd90e84-ab01-4782-b8ee-5242f557a571"/>
         <COMPID name="Currency" mc="Standard.Class" uid="35209690-4d1a-4133-a0d0-eaa4c16d031c"/>
+        <COMPID name="Tag" mc="Standard.Class" uid="b6c299c0-ff81-4ad4-b3e0-dffd8eb74ef3"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="General structure" mc="Standard.ClassDiagram" uid="4644b36b-3c60-452b-93ae-38b65657a5e4"/>
