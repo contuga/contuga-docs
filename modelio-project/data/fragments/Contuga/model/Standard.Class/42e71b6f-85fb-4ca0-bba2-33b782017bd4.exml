@@ -95,7 +95,7 @@
         <OBJECT>
           <ID name="category" mc="Standard.AssociationEnd" uid="e67d8630-7bf5-474c-93dc-0688a45aeeeb"/>
           <ATTRIBUTES>
-            <ATT name="Aggregation">KindIsComposition</ATT>
+            <ATT name="Aggregation">KindIsAggregation</ATT>
             <ATT name="IsChangeable">true</ATT>
             <ATT name="Changeable">ReadWrite</ATT>
             <ATT name="IsDerived">false</ATT>
@@ -156,7 +156,7 @@
         <OBJECT>
           <ID name="account" mc="Standard.AssociationEnd" uid="091c03cc-e76b-4e9e-85d1-f424fb53066b"/>
           <ATTRIBUTES>
-            <ATT name="Aggregation">KindIsComposition</ATT>
+            <ATT name="Aggregation">KindIsAggregation</ATT>
             <ATT name="IsChangeable">true</ATT>
             <ATT name="Changeable">ReadWrite</ATT>
             <ATT name="IsDerived">false</ATT>
